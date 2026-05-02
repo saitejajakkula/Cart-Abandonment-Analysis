@@ -144,3 +144,36 @@ Improving checkout flow, payment options, and mobile UX can significantly enhanc
 * PowerPoint (Presentation)
 
 ---
+
+## **📂 Use Case**
+
+This project is ideal for demonstrating:
+
+Business Analyst skills
+Data-driven decision making
+Structured problem solving
+Insight generation from data
+
+---
+
+## **👨‍💼 About Me**
+
+Hi, I’m Saiteja Jakkula 👋
+
+I’m interested in Business Analytics, Market Research, and Strategy Analysis, with a focus on:
+
+Structured thinking
+
+Second-order impact analysis
+
+Combining Human + AI for decision making
+
+---
+
+## **🔗 Connect with me on LinkedIn:**
+
+💼 https://www.linkedin.com/in/jakkula-saiteja/
+
+⭐ If you found this useful
+
+Give this repo a ⭐ and feel free to connect or reach out!

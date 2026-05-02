@@ -1,0 +1,1001 @@
+user_id,session_id,device_type,product_category,product_price,added_to_cart,checkout_started,purchase_completed,abandonment_reason
+1102,1,Mobile,Home,270.89,1,1,0,Just Browsing
+1435,2,Mobile,Home,211.44,1,0,0,Just Browsing
+1860,3,Mobile,Home,180.2,1,1,0,Payment Failure
+1270,4,Desktop,Beauty,450.92,1,1,0,High Shipping Cost
+1106,5,Desktop,Home,20.69,0,0,0,Just Browsing
+1071,6,Mobile,Electronics,335.26,1,0,0,Just Browsing
+1700,7,Mobile,Beauty,482.06,0,0,0,Payment Failure
+1020,8,Mobile,Home,284.48,1,0,0,Just Browsing
+1614,9,Desktop,Electronics,469.04,1,1,1,N/A
+1121,10,Desktop,Beauty,35.61,1,1,1,N/A
+1466,11,Desktop,Home,215.21,0,0,0,Payment Failure
+1214,12,Mobile,Home,137.48,1,1,1,N/A
+1330,13,Mobile,Home,368.1,1,0,0,Just Browsing
+1458,14,Mobile,Beauty,490.84,1,0,0,High Shipping Cost
+1087,15,Mobile,Electronics,135.7,1,1,1,N/A
+1372,16,Desktop,Electronics,330.55,1,0,0,Payment Failure
+1099,17,Desktop,Fashion,107.07,0,0,0,Slow Website
+1871,18,Desktop,Home,287.01,1,0,0,High Shipping Cost
+1663,19,Desktop,Fashion,237.33,1,0,0,Payment Failure
+1130,20,Mobile,Fashion,486.28,0,0,0,Just Browsing
+1661,21,Desktop,Electronics,308.18,0,0,0,Just Browsing
+1308,22,Desktop,Beauty,181.26,0,0,0,Payment Failure
+1769,23,Desktop,Beauty,65.91,1,1,1,N/A
+1343,24,Mobile,Electronics,84.11,1,1,1,N/A
+1491,25,Mobile,Beauty,120.41,0,0,0,Slow Website
+1413,26,Mobile,Fashion,132.97,1,1,1,N/A
+1805,27,Desktop,Home,426.8,0,0,0,High Shipping Cost
+1385,28,Mobile,Electronics,285.0,1,0,0,Just Browsing
+1191,29,Mobile,Home,266.46,0,0,0,Payment Failure
+1955,30,Mobile,Beauty,66.24,1,1,1,N/A
+1276,31,Mobile,Home,431.47,1,1,1,N/A
+1160,32,Mobile,Beauty,364.18,1,1,1,N/A
+1459,33,Mobile,Beauty,43.16,1,0,0,High Shipping Cost
+1313,34,Mobile,Fashion,356.84,1,1,1,N/A
+1021,35,Mobile,Beauty,276.33,1,1,0,Slow Website
+1252,36,Desktop,Fashion,50.05,0,0,0,Just Browsing
+1747,37,Mobile,Fashion,234.57,0,0,0,Payment Failure
+1856,38,Desktop,Fashion,247.5,1,1,1,N/A
+1560,39,Mobile,Electronics,91.23,0,0,0,Just Browsing
+1474,40,Mobile,Electronics,473.39,0,0,0,High Shipping Cost
+1058,41,Desktop,Beauty,426.49,1,1,0,Slow Website
+1510,42,Mobile,Fashion,337.82,1,0,0,High Shipping Cost
+1681,43,Mobile,Electronics,236.52,1,1,0,Payment Failure
+1475,44,Mobile,Fashion,211.77,0,0,0,Just Browsing
+1699,45,Desktop,Home,328.98,0,0,0,High Shipping Cost
+1975,46,Mobile,Home,277.26,1,1,0,Payment Failure
+1782,47,Desktop,Home,40.51,0,0,0,Just Browsing
+1189,48,Mobile,Beauty,261.13,0,0,0,Payment Failure
+1957,49,Mobile,Fashion,405.14,1,1,1,N/A
+1686,50,Mobile,Home,235.03,1,0,0,Payment Failure
+1957,51,Mobile,Electronics,35.46,1,1,1,N/A
+1562,52,Mobile,Home,395.28,0,0,0,Just Browsing
+1875,53,Mobile,Home,108.67,0,0,0,Payment Failure
+1566,54,Mobile,Home,136.72,1,1,0,High Shipping Cost
+1243,55,Desktop,Beauty,90.71,0,0,0,Just Browsing
+1831,56,Mobile,Electronics,171.81,1,1,0,Slow Website
+1504,57,Mobile,Fashion,380.81,1,0,0,Just Browsing
+1130,58,Desktop,Electronics,264.5,1,1,1,N/A
+1484,59,Mobile,Fashion,110.39,1,1,0,Just Browsing
+1818,60,Mobile,Beauty,440.14,0,0,0,Payment Failure
+1646,61,Desktop,Beauty,441.0,1,1,1,N/A
+1020,62,Desktop,Beauty,436.58,1,1,1,N/A
+1840,63,Mobile,Beauty,127.01,1,1,1,N/A
+1166,64,Desktop,Fashion,231.11,0,0,0,High Shipping Cost
+1273,65,Mobile,Home,492.64,0,0,0,Payment Failure
+1387,66,Mobile,Fashion,388.29,1,0,0,Slow Website
+1600,67,Mobile,Electronics,23.31,1,1,0,High Shipping Cost
+1315,68,Desktop,Beauty,41.95,1,0,0,High Shipping Cost
+1013,69,Mobile,Beauty,237.33,0,0,0,High Shipping Cost
+1241,70,Mobile,Electronics,455.52,1,1,0,High Shipping Cost
+1776,71,Mobile,Fashion,273.96,1,0,0,High Shipping Cost
+1345,72,Mobile,Home,253.93,1,0,0,Slow Website
+1564,73,Mobile,Home,61.68,1,0,0,High Shipping Cost
+1897,74,Mobile,Electronics,331.82,0,0,0,Slow Website
+1339,75,Mobile,Home,412.83,1,1,1,N/A
+1091,76,Mobile,Fashion,196.41,0,0,0,Payment Failure
+1366,77,Mobile,Fashion,390.05,1,1,0,Payment Failure
+1955,78,Mobile,Electronics,482.59,1,0,0,High Shipping Cost
+1454,79,Mobile,Fashion,109.85,1,1,1,N/A
+1427,80,Mobile,Beauty,266.43,1,1,0,Payment Failure
+1508,81,Desktop,Electronics,150.7,0,0,0,Slow Website
+1775,82,Mobile,Fashion,398.5,1,1,0,High Shipping Cost
+1942,83,Mobile,Electronics,293.02,1,0,0,Slow Website
+1034,84,Mobile,Home,320.95,0,0,0,Just Browsing
+1205,85,Mobile,Fashion,400.98,0,0,0,High Shipping Cost
+1080,86,Mobile,Beauty,204.03,1,0,0,Payment Failure
+1931,87,Mobile,Fashion,458.39,0,0,0,Slow Website
+1561,88,Mobile,Electronics,271.18,1,1,1,N/A
+1871,89,Mobile,Electronics,87.4,1,1,1,N/A
+1387,90,Mobile,Fashion,350.99,1,0,0,High Shipping Cost
+1001,91,Mobile,Beauty,398.7,0,0,0,Slow Website
+1389,92,Mobile,Beauty,165.21,1,1,0,Just Browsing
+1565,93,Mobile,Beauty,430.02,1,1,0,Payment Failure
+1105,94,Mobile,Electronics,454.01,0,0,0,High Shipping Cost
+1771,95,Mobile,Fashion,145.68,1,1,1,N/A
+1821,96,Mobile,Home,491.93,1,1,1,N/A
+1476,97,Mobile,Electronics,78.95,1,1,1,N/A
+1702,98,Desktop,Beauty,108.99,0,0,0,Payment Failure
+1401,99,Mobile,Fashion,100.27,1,0,0,High Shipping Cost
+1729,100,Mobile,Beauty,448.05,0,0,0,Slow Website
+1555,101,Desktop,Home,330.6,0,0,0,Slow Website
+1161,102,Desktop,Beauty,84.53,1,0,0,Payment Failure
+1201,103,Mobile,Beauty,225.76,1,1,0,Slow Website
+1957,104,Mobile,Home,311.5,0,0,0,Just Browsing
+1995,105,Desktop,Fashion,50.9,0,0,0,High Shipping Cost
+1269,106,Desktop,Electronics,442.38,0,0,0,Payment Failure
+1862,107,Mobile,Fashion,403.77,0,0,0,Just Browsing
+1815,108,Mobile,Home,257.55,0,0,0,High Shipping Cost
+1270,109,Mobile,Beauty,483.89,0,0,0,Just Browsing
+1455,110,Mobile,Fashion,214.7,1,1,0,Payment Failure
+1461,111,Mobile,Electronics,492.21,1,1,1,N/A
+1726,112,Mobile,Home,337.28,1,1,1,N/A
+1251,113,Mobile,Fashion,320.99,1,1,1,N/A
+1701,114,Desktop,Electronics,91.32,0,0,0,Slow Website
+1295,115,Mobile,Home,442.14,1,0,0,Slow Website
+1724,116,Mobile,Electronics,219.47,1,0,0,Just Browsing
+1719,117,Desktop,Home,89.49,1,0,0,Payment Failure
+1748,118,Desktop,Beauty,16.18,1,0,0,High Shipping Cost
+1337,119,Mobile,Fashion,284.28,1,1,0,High Shipping Cost
+1878,120,Mobile,Electronics,268.43,1,1,0,Payment Failure
+1052,121,Mobile,Home,362.48,0,0,0,Slow Website
+1791,122,Mobile,Electronics,446.23,1,0,0,High Shipping Cost
+1921,123,Mobile,Electronics,48.91,1,1,1,N/A
+1216,124,Mobile,Fashion,368.43,1,0,0,Slow Website
+1763,125,Mobile,Beauty,101.83,1,1,1,N/A
+1187,126,Mobile,Electronics,430.51,0,0,0,Slow Website
+1379,127,Mobile,Home,411.34,1,0,0,Payment Failure
+1492,128,Mobile,Home,274.99,1,0,0,Just Browsing
+1040,129,Mobile,Beauty,358.02,1,0,0,Just Browsing
+1156,130,Mobile,Home,164.03,1,1,1,N/A
+1014,131,Mobile,Beauty,240.87,0,0,0,Just Browsing
+1812,132,Desktop,Home,412.6,1,1,1,N/A
+1064,133,Mobile,Fashion,235.04,1,0,0,High Shipping Cost
+1856,134,Mobile,Electronics,185.32,1,1,1,N/A
+1838,135,Desktop,Fashion,252.16,1,1,1,N/A
+1520,136,Mobile,Electronics,415.84,1,1,0,Slow Website
+1343,137,Mobile,Electronics,174.25,1,0,0,Just Browsing
+1128,138,Mobile,Electronics,95.14,0,0,0,Just Browsing
+1647,139,Mobile,Fashion,358.89,1,1,1,N/A
+1471,140,Desktop,Electronics,414.73,1,0,0,Just Browsing
+1062,141,Mobile,Fashion,59.31,1,0,0,High Shipping Cost
+1138,142,Mobile,Beauty,127.54,1,0,0,Payment Failure
+1498,143,Mobile,Home,79.57,1,1,0,Just Browsing
+1592,144,Mobile,Home,180.49,0,0,0,Slow Website
+1391,145,Mobile,Electronics,230.67,1,1,0,Just Browsing
+1674,146,Mobile,Fashion,376.92,0,0,0,High Shipping Cost
+1418,147,Mobile,Home,329.06,1,1,1,N/A
+1288,148,Desktop,Fashion,314.25,0,0,0,High Shipping Cost
+1378,149,Mobile,Fashion,182.66,1,1,0,Just Browsing
+1772,150,Mobile,Electronics,422.31,1,0,0,High Shipping Cost
+1489,151,Mobile,Home,240.93,0,0,0,High Shipping Cost
+1230,152,Mobile,Electronics,489.76,1,0,0,Payment Failure
+1040,153,Mobile,Electronics,320.73,1,0,0,Slow Website
+1027,154,Mobile,Home,71.87,0,0,0,Just Browsing
+1134,155,Mobile,Home,341.33,1,0,0,Payment Failure
+1200,156,Mobile,Beauty,169.3,1,0,0,Slow Website
+1839,157,Mobile,Beauty,346.3,1,0,0,High Shipping Cost
+1779,158,Desktop,Fashion,44.12,0,0,0,Slow Website
+1929,159,Mobile,Home,95.69,0,0,0,High Shipping Cost
+1032,160,Mobile,Beauty,429.31,0,0,0,High Shipping Cost
+1047,161,Mobile,Fashion,121.32,0,0,0,Payment Failure
+1502,162,Desktop,Fashion,420.15,0,0,0,High Shipping Cost
+1406,163,Mobile,Fashion,146.85,1,1,1,N/A
+1573,164,Mobile,Beauty,325.01,1,1,0,Slow Website
+1727,165,Desktop,Home,350.13,1,0,0,Slow Website
+1804,166,Desktop,Electronics,261.2,1,0,0,High Shipping Cost
+1098,167,Desktop,Fashion,159.6,0,0,0,Payment Failure
+1683,168,Mobile,Beauty,114.2,0,0,0,High Shipping Cost
+1871,169,Mobile,Beauty,26.26,1,1,0,Payment Failure
+1725,170,Mobile,Electronics,158.93,0,0,0,Payment Failure
+1986,171,Desktop,Electronics,330.05,1,0,0,Payment Failure
+1546,172,Mobile,Beauty,469.77,1,1,1,N/A
+1960,173,Mobile,Home,436.89,1,0,0,Payment Failure
+1738,174,Mobile,Electronics,385.37,1,1,0,Slow Website
+1612,175,Desktop,Beauty,396.34,1,1,1,N/A
+1942,176,Mobile,Electronics,335.84,1,1,0,Slow Website
+1461,177,Mobile,Home,137.54,1,1,0,Just Browsing
+1642,178,Mobile,Fashion,454.53,1,1,1,N/A
+1768,179,Mobile,Electronics,338.66,1,1,1,N/A
+1004,180,Mobile,Home,284.62,1,1,1,N/A
+1217,181,Mobile,Beauty,64.38,1,1,0,Payment Failure
+1502,182,Mobile,Electronics,229.06,1,0,0,Just Browsing
+1766,183,Mobile,Electronics,235.58,1,0,0,High Shipping Cost
+1397,184,Mobile,Beauty,433.64,1,0,0,Payment Failure
+1870,185,Mobile,Fashion,277.86,0,0,0,Just Browsing
+1794,186,Mobile,Beauty,196.4,1,1,0,Just Browsing
+1392,187,Mobile,Electronics,488.63,1,1,0,Just Browsing
+1206,188,Mobile,Beauty,64.25,1,0,0,Payment Failure
+1014,189,Mobile,Home,217.05,0,0,0,Just Browsing
+1857,190,Mobile,Beauty,30.59,1,1,1,N/A
+1553,191,Mobile,Electronics,372.55,1,0,0,High Shipping Cost
+1891,192,Desktop,Beauty,459.86,1,1,0,Slow Website
+1460,193,Mobile,Fashion,147.22,1,1,1,N/A
+1690,194,Desktop,Beauty,430.59,1,1,0,Slow Website
+1574,195,Mobile,Fashion,153.19,1,0,0,High Shipping Cost
+1863,196,Mobile,Home,456.28,1,0,0,Slow Website
+1742,197,Desktop,Fashion,379.44,0,0,0,Just Browsing
+1240,198,Mobile,Beauty,404.4,1,1,0,Just Browsing
+1563,199,Mobile,Electronics,18.82,0,0,0,Payment Failure
+1095,200,Mobile,Fashion,481.78,1,0,0,Payment Failure
+1899,201,Mobile,Home,366.07,0,0,0,Payment Failure
+1733,202,Desktop,Fashion,159.33,0,0,0,High Shipping Cost
+1484,203,Desktop,Fashion,416.4,0,0,0,Payment Failure
+1406,204,Desktop,Fashion,147.95,0,0,0,High Shipping Cost
+1230,205,Mobile,Home,437.65,1,1,0,Just Browsing
+1748,206,Desktop,Beauty,65.16,1,0,0,Slow Website
+1654,207,Desktop,Fashion,354.81,1,0,0,Just Browsing
+1170,208,Mobile,Fashion,274.94,0,0,0,Just Browsing
+1540,209,Mobile,Electronics,57.3,0,0,0,Just Browsing
+1035,210,Desktop,Home,128.53,0,0,0,Payment Failure
+1524,211,Mobile,Fashion,16.08,0,0,0,Payment Failure
+1159,212,Desktop,Home,239.7,1,1,0,Payment Failure
+1838,213,Mobile,Fashion,157.62,0,0,0,Slow Website
+1698,214,Desktop,Beauty,303.2,1,1,1,N/A
+1242,215,Mobile,Beauty,155.65,0,0,0,High Shipping Cost
+1085,216,Mobile,Fashion,156.96,0,0,0,Just Browsing
+1795,217,Mobile,Beauty,374.16,1,1,1,N/A
+1577,218,Desktop,Fashion,33.59,1,1,0,Slow Website
+1681,219,Mobile,Beauty,452.42,0,0,0,Slow Website
+1556,220,Mobile,Electronics,427.61,0,0,0,Slow Website
+1573,221,Mobile,Electronics,337.22,1,0,0,Slow Website
+1952,222,Desktop,Electronics,300.68,0,0,0,High Shipping Cost
+1645,223,Mobile,Home,447.23,0,0,0,Just Browsing
+1795,224,Desktop,Home,100.81,1,1,1,N/A
+1027,225,Mobile,Electronics,48.69,1,1,0,Just Browsing
+1619,226,Mobile,Home,127.36,1,0,0,Payment Failure
+1555,227,Mobile,Beauty,399.34,1,1,1,N/A
+1339,228,Mobile,Fashion,26.99,1,0,0,Slow Website
+1797,229,Desktop,Fashion,295.58,1,1,1,N/A
+1957,230,Mobile,Fashion,497.76,1,1,1,N/A
+1330,231,Mobile,Electronics,429.29,1,1,1,N/A
+1639,232,Desktop,Home,265.51,0,0,0,Slow Website
+1505,233,Mobile,Beauty,41.18,1,0,0,High Shipping Cost
+1347,234,Mobile,Beauty,417.37,1,0,0,High Shipping Cost
+1472,235,Desktop,Electronics,303.5,1,1,0,Slow Website
+1230,236,Mobile,Beauty,66.32,1,1,0,High Shipping Cost
+1189,237,Mobile,Beauty,55.99,1,0,0,Payment Failure
+1224,238,Desktop,Beauty,455.72,0,0,0,Slow Website
+1384,239,Mobile,Beauty,337.91,1,0,0,Payment Failure
+1376,240,Mobile,Home,416.35,0,0,0,Just Browsing
+1282,241,Mobile,Beauty,440.7,1,0,0,Payment Failure
+1957,242,Desktop,Fashion,290.17,0,0,0,Just Browsing
+1632,243,Mobile,Electronics,263.55,1,1,0,Slow Website
+1627,244,Mobile,Home,220.91,0,0,0,Just Browsing
+1972,245,Desktop,Beauty,165.3,1,0,0,Just Browsing
+1744,246,Desktop,Home,222.95,1,1,1,N/A
+1258,247,Mobile,Beauty,389.2,0,0,0,Payment Failure
+1358,248,Mobile,Fashion,304.94,1,1,1,N/A
+1709,249,Mobile,Electronics,447.34,1,1,1,N/A
+1455,250,Desktop,Beauty,227.26,0,0,0,Slow Website
+1410,251,Mobile,Beauty,307.47,1,1,1,N/A
+1648,252,Mobile,Beauty,319.34,0,0,0,Slow Website
+1317,253,Desktop,Beauty,299.93,1,1,0,Slow Website
+1676,254,Desktop,Electronics,354.29,1,0,0,Just Browsing
+1224,255,Mobile,Electronics,126.34,1,1,1,N/A
+1818,256,Desktop,Fashion,261.06,1,1,0,Payment Failure
+1233,257,Mobile,Electronics,61.07,0,0,0,Slow Website
+1683,258,Desktop,Beauty,198.41,0,0,0,Just Browsing
+1663,259,Mobile,Fashion,248.96,1,0,0,High Shipping Cost
+1974,260,Mobile,Fashion,329.59,1,1,1,N/A
+1826,261,Desktop,Fashion,475.76,1,1,0,High Shipping Cost
+1373,262,Mobile,Beauty,304.32,1,1,0,Payment Failure
+1671,263,Mobile,Home,374.36,1,1,0,Slow Website
+1607,264,Desktop,Beauty,258.07,1,0,0,Payment Failure
+1471,265,Desktop,Electronics,320.71,1,0,0,Payment Failure
+1232,266,Mobile,Electronics,44.76,1,0,0,Payment Failure
+1691,267,Mobile,Beauty,134.65,1,0,0,Payment Failure
+1112,268,Mobile,Beauty,187.31,0,0,0,Payment Failure
+1829,269,Mobile,Fashion,241.52,1,0,0,Slow Website
+1496,270,Mobile,Beauty,32.37,1,0,0,High Shipping Cost
+1441,271,Mobile,Fashion,78.61,1,1,0,Slow Website
+1563,272,Desktop,Electronics,145.64,0,0,0,Slow Website
+1267,273,Mobile,Fashion,486.05,1,1,1,N/A
+1509,274,Mobile,Beauty,172.36,1,1,0,Just Browsing
+1806,275,Mobile,Electronics,246.2,1,0,0,Just Browsing
+1385,276,Desktop,Home,106.09,0,0,0,Slow Website
+1386,277,Mobile,Fashion,309.28,0,0,0,High Shipping Cost
+1112,278,Mobile,Electronics,147.53,1,0,0,Slow Website
+1612,279,Mobile,Fashion,111.43,1,1,0,Payment Failure
+1624,280,Mobile,Electronics,263.12,1,1,0,Just Browsing
+1951,281,Mobile,Electronics,12.7,1,0,0,Just Browsing
+1080,282,Desktop,Fashion,13.76,0,0,0,Slow Website
+1698,283,Desktop,Home,117.34,1,0,0,Slow Website
+1112,284,Mobile,Electronics,27.99,0,0,0,High Shipping Cost
+1001,285,Mobile,Electronics,62.93,1,1,0,High Shipping Cost
+1641,286,Desktop,Electronics,176.04,1,1,0,Payment Failure
+1219,287,Desktop,Home,403.27,1,0,0,Slow Website
+1565,288,Mobile,Home,290.3,1,1,0,Slow Website
+1854,289,Mobile,Beauty,261.21,1,1,1,N/A
+1996,290,Mobile,Fashion,153.81,1,1,1,N/A
+1735,291,Mobile,Home,466.56,0,0,0,Payment Failure
+1224,292,Desktop,Fashion,204.54,1,0,0,High Shipping Cost
+1384,293,Desktop,Beauty,52.68,1,1,0,Just Browsing
+1402,294,Desktop,Fashion,312.36,0,0,0,Just Browsing
+1637,295,Mobile,Home,65.78,1,1,1,N/A
+1129,296,Mobile,Fashion,179.16,1,1,1,N/A
+1052,297,Desktop,Home,258.63,1,0,0,Payment Failure
+1683,298,Desktop,Fashion,438.37,1,1,1,N/A
+1729,299,Mobile,Home,251.84,1,0,0,High Shipping Cost
+1671,300,Desktop,Home,354.11,0,0,0,High Shipping Cost
+1709,301,Desktop,Fashion,496.48,0,0,0,Just Browsing
+1415,302,Mobile,Beauty,74.43,1,0,0,Just Browsing
+1246,303,Mobile,Electronics,144.62,1,1,0,Payment Failure
+1835,304,Mobile,Beauty,203.34,0,0,0,Just Browsing
+1438,305,Mobile,Fashion,216.7,1,1,0,High Shipping Cost
+1202,306,Mobile,Beauty,211.4,1,1,1,N/A
+1183,307,Desktop,Home,454.73,1,1,0,Slow Website
+1122,308,Mobile,Electronics,359.88,0,0,0,Slow Website
+1400,309,Mobile,Fashion,307.87,1,1,0,High Shipping Cost
+1766,310,Mobile,Fashion,161.59,1,1,1,N/A
+1293,311,Mobile,Fashion,413.66,1,1,0,Payment Failure
+1279,312,Desktop,Electronics,477.98,1,1,1,N/A
+1836,313,Mobile,Home,412.39,1,0,0,High Shipping Cost
+1883,314,Mobile,Fashion,10.77,1,1,0,Just Browsing
+1609,315,Desktop,Beauty,321.84,0,0,0,Slow Website
+1197,316,Mobile,Fashion,35.06,1,1,1,N/A
+1981,317,Mobile,Fashion,136.23,1,0,0,Just Browsing
+1906,318,Mobile,Fashion,39.17,1,0,0,High Shipping Cost
+1510,319,Mobile,Fashion,305.86,0,0,0,Slow Website
+1751,320,Mobile,Home,346.43,0,0,0,Slow Website
+1143,321,Mobile,Beauty,66.1,1,0,0,Payment Failure
+1608,322,Mobile,Home,198.08,1,0,0,Payment Failure
+1200,323,Desktop,Beauty,233.56,1,1,0,Payment Failure
+1123,324,Mobile,Fashion,190.84,1,1,1,N/A
+1186,325,Mobile,Electronics,69.3,1,0,0,Slow Website
+1325,326,Mobile,Home,215.28,1,0,0,Just Browsing
+1463,327,Mobile,Electronics,378.08,1,1,1,N/A
+1348,328,Mobile,Home,44.79,1,0,0,Just Browsing
+1770,329,Mobile,Fashion,49.29,1,1,0,High Shipping Cost
+1659,330,Desktop,Home,183.84,0,0,0,Payment Failure
+1763,331,Mobile,Fashion,471.45,1,1,1,N/A
+1954,332,Mobile,Home,337.6,1,0,0,Slow Website
+1931,333,Mobile,Fashion,342.55,0,0,0,Slow Website
+1402,334,Desktop,Fashion,187.34,0,0,0,High Shipping Cost
+1345,335,Mobile,Beauty,300.89,1,1,0,High Shipping Cost
+1962,336,Mobile,Fashion,14.96,0,0,0,Just Browsing
+1510,337,Mobile,Beauty,321.69,0,0,0,Slow Website
+1146,338,Desktop,Fashion,457.51,1,1,1,N/A
+1147,339,Mobile,Electronics,310.16,1,1,0,Just Browsing
+1863,340,Desktop,Fashion,438.11,1,1,1,N/A
+1710,341,Mobile,Electronics,364.75,0,0,0,Just Browsing
+1819,342,Mobile,Electronics,69.07,0,0,0,Payment Failure
+1488,343,Mobile,Fashion,452.2,1,0,0,High Shipping Cost
+1928,344,Mobile,Electronics,42.56,1,1,1,N/A
+1935,345,Mobile,Beauty,271.64,1,1,1,N/A
+1639,346,Mobile,Home,79.65,1,0,0,Payment Failure
+1550,347,Desktop,Fashion,15.74,1,0,0,Slow Website
+1337,348,Mobile,Electronics,216.8,0,0,0,Just Browsing
+1871,349,Mobile,Fashion,154.57,1,1,1,N/A
+1640,350,Mobile,Beauty,248.14,0,0,0,Slow Website
+1778,351,Mobile,Fashion,292.83,1,0,0,Payment Failure
+1987,352,Mobile,Fashion,31.43,1,1,1,N/A
+1952,353,Mobile,Electronics,70.27,1,0,0,High Shipping Cost
+1472,354,Mobile,Beauty,283.73,0,0,0,Just Browsing
+1945,355,Desktop,Home,178.15,0,0,0,Just Browsing
+1150,356,Desktop,Home,367.3,1,0,0,Payment Failure
+1414,357,Mobile,Electronics,329.62,0,0,0,Payment Failure
+1989,358,Mobile,Fashion,424.35,1,0,0,Just Browsing
+1297,359,Mobile,Electronics,349.32,0,0,0,Slow Website
+1610,360,Mobile,Electronics,220.67,1,0,0,Slow Website
+1262,361,Mobile,Electronics,339.75,1,1,0,Slow Website
+1763,362,Mobile,Fashion,144.94,1,1,1,N/A
+1143,363,Desktop,Beauty,160.09,1,0,0,Payment Failure
+1345,364,Mobile,Electronics,396.6,0,0,0,Just Browsing
+1623,365,Mobile,Fashion,228.75,0,0,0,High Shipping Cost
+1571,366,Mobile,Beauty,401.21,1,1,0,Payment Failure
+1880,367,Mobile,Electronics,412.99,1,0,0,Just Browsing
+1001,368,Mobile,Home,430.21,1,0,0,Just Browsing
+1896,369,Mobile,Beauty,459.15,0,0,0,High Shipping Cost
+1303,370,Mobile,Electronics,221.18,0,0,0,Slow Website
+1253,371,Desktop,Beauty,166.24,0,0,0,Just Browsing
+1651,372,Mobile,Beauty,295.28,1,1,1,N/A
+1452,373,Mobile,Beauty,191.87,0,0,0,Just Browsing
+1036,374,Mobile,Beauty,304.53,1,0,0,Slow Website
+1159,375,Mobile,Beauty,355.74,0,0,0,Slow Website
+1008,376,Mobile,Beauty,347.32,1,0,0,High Shipping Cost
+1232,377,Desktop,Electronics,193.53,1,0,0,Payment Failure
+1098,378,Desktop,Home,91.76,1,1,1,N/A
+1658,379,Desktop,Fashion,220.96,1,1,1,N/A
+1815,380,Mobile,Beauty,79.87,1,0,0,Payment Failure
+1207,381,Mobile,Fashion,446.15,1,1,1,N/A
+1130,382,Mobile,Electronics,179.48,1,1,0,Just Browsing
+1403,383,Mobile,Beauty,85.69,1,0,0,High Shipping Cost
+1151,384,Desktop,Home,22.47,1,0,0,Payment Failure
+1053,385,Mobile,Fashion,326.45,0,0,0,Just Browsing
+1119,386,Mobile,Beauty,322.08,1,0,0,Slow Website
+1672,387,Mobile,Electronics,176.9,0,0,0,Payment Failure
+1919,388,Mobile,Home,45.14,0,0,0,Payment Failure
+1627,389,Mobile,Fashion,210.72,1,0,0,Payment Failure
+1586,390,Mobile,Fashion,162.5,1,0,0,Just Browsing
+1624,391,Mobile,Beauty,341.79,1,1,0,Just Browsing
+1967,392,Desktop,Home,306.83,1,1,1,N/A
+1419,393,Desktop,Home,188.65,1,1,1,N/A
+1421,394,Mobile,Home,116.77,1,0,0,Payment Failure
+1103,395,Mobile,Home,494.14,0,0,0,High Shipping Cost
+1851,396,Mobile,Electronics,232.46,0,0,0,High Shipping Cost
+1253,397,Mobile,Home,347.25,1,0,0,Just Browsing
+1226,398,Mobile,Fashion,78.87,0,0,0,Just Browsing
+1111,399,Mobile,Fashion,247.94,0,0,0,Slow Website
+1509,400,Mobile,Electronics,23.49,1,1,0,Just Browsing
+1472,401,Mobile,Fashion,257.67,1,1,0,High Shipping Cost
+1098,402,Mobile,Fashion,482.37,1,1,0,High Shipping Cost
+1152,403,Mobile,Home,198.26,1,1,0,High Shipping Cost
+1860,404,Desktop,Fashion,29.11,1,0,0,Payment Failure
+1913,405,Desktop,Electronics,25.17,0,0,0,Payment Failure
+1895,406,Mobile,Home,200.11,0,0,0,Just Browsing
+1877,407,Desktop,Beauty,88.41,1,0,0,Slow Website
+1337,408,Mobile,Home,21.44,1,1,0,Slow Website
+1705,409,Desktop,Electronics,380.54,1,1,1,N/A
+1821,410,Desktop,Home,234.68,0,0,0,Payment Failure
+1162,411,Mobile,Home,151.73,1,0,0,High Shipping Cost
+1719,412,Mobile,Electronics,451.04,1,0,0,High Shipping Cost
+1956,413,Mobile,Home,66.91,1,0,0,Payment Failure
+1680,414,Mobile,Electronics,478.4,1,0,0,Slow Website
+1995,415,Mobile,Electronics,163.84,1,0,0,Slow Website
+1160,416,Mobile,Beauty,445.32,1,1,1,N/A
+1579,417,Mobile,Fashion,305.44,1,1,1,N/A
+1800,418,Desktop,Fashion,415.09,1,1,0,Slow Website
+1397,419,Desktop,Home,492.17,1,1,1,N/A
+1276,420,Mobile,Home,151.32,1,1,0,Slow Website
+1815,421,Mobile,Beauty,480.96,1,0,0,Just Browsing
+1915,422,Mobile,Beauty,200.85,1,0,0,Slow Website
+1503,423,Mobile,Beauty,198.9,0,0,0,Payment Failure
+1895,424,Desktop,Electronics,176.79,1,1,1,N/A
+1391,425,Mobile,Beauty,275.29,1,1,0,Payment Failure
+1134,426,Mobile,Beauty,85.53,1,0,0,Payment Failure
+1194,427,Mobile,Home,281.32,1,1,0,Just Browsing
+1400,428,Mobile,Beauty,275.44,1,1,0,Payment Failure
+1639,429,Mobile,Electronics,383.33,0,0,0,Payment Failure
+1032,430,Desktop,Electronics,418.49,1,0,0,Just Browsing
+1687,431,Mobile,Home,225.82,1,1,0,Just Browsing
+1459,432,Mobile,Beauty,158.14,1,1,0,High Shipping Cost
+1954,433,Mobile,Beauty,137.07,1,0,0,Slow Website
+1882,434,Desktop,Electronics,105.37,1,1,1,N/A
+1469,435,Desktop,Beauty,38.25,1,0,0,Just Browsing
+1374,436,Mobile,Beauty,177.8,0,0,0,High Shipping Cost
+1021,437,Mobile,Beauty,142.42,1,1,0,Slow Website
+1749,438,Mobile,Fashion,483.54,1,1,0,Just Browsing
+1669,439,Mobile,Home,283.28,1,1,0,Slow Website
+1037,440,Desktop,Fashion,180.17,1,1,0,Slow Website
+1229,441,Mobile,Home,294.43,1,1,1,N/A
+1364,442,Mobile,Electronics,78.21,0,0,0,Payment Failure
+1562,443,Mobile,Beauty,227.58,1,1,0,Just Browsing
+1437,444,Mobile,Home,316.85,1,0,0,Slow Website
+1775,445,Mobile,Fashion,249.56,1,1,1,N/A
+1282,446,Desktop,Beauty,206.87,1,1,1,N/A
+1026,447,Mobile,Electronics,496.99,0,0,0,Slow Website
+1225,448,Mobile,Home,441.35,0,0,0,Just Browsing
+1276,449,Mobile,Home,315.47,1,1,0,Slow Website
+1797,450,Mobile,Home,288.99,1,0,0,Slow Website
+1608,451,Mobile,Beauty,314.12,0,0,0,Slow Website
+1283,452,Mobile,Fashion,108.64,1,0,0,Slow Website
+1878,453,Desktop,Fashion,203.62,1,0,0,High Shipping Cost
+1959,454,Mobile,Home,29.34,1,0,0,Slow Website
+1480,455,Mobile,Electronics,243.02,1,1,1,N/A
+1452,456,Mobile,Electronics,276.08,0,0,0,Payment Failure
+1828,457,Mobile,Fashion,121.6,0,0,0,Payment Failure
+1815,458,Desktop,Electronics,482.37,1,1,0,Slow Website
+1658,459,Desktop,Fashion,455.63,1,0,0,Payment Failure
+1515,460,Mobile,Home,363.85,1,0,0,High Shipping Cost
+1546,461,Mobile,Fashion,271.36,1,1,0,Just Browsing
+1191,462,Mobile,Fashion,436.28,1,1,0,Slow Website
+1048,463,Mobile,Home,74.02,1,1,0,Payment Failure
+1511,464,Mobile,Electronics,397.35,1,0,0,High Shipping Cost
+1016,465,Mobile,Fashion,71.16,1,1,1,N/A
+1171,466,Mobile,Fashion,399.16,1,1,0,High Shipping Cost
+1219,467,Mobile,Home,145.13,0,0,0,Payment Failure
+1157,468,Desktop,Electronics,439.77,1,1,0,High Shipping Cost
+1476,469,Mobile,Fashion,472.58,0,0,0,Just Browsing
+1045,470,Mobile,Home,82.91,1,1,1,N/A
+1372,471,Desktop,Fashion,236.71,1,0,0,Just Browsing
+1517,472,Mobile,Beauty,490.68,1,1,1,N/A
+1098,473,Mobile,Home,246.87,1,0,0,Slow Website
+1891,474,Mobile,Electronics,433.14,0,0,0,Slow Website
+1744,475,Mobile,Electronics,298.48,0,0,0,Slow Website
+1036,476,Desktop,Electronics,193.91,1,1,1,N/A
+1279,477,Desktop,Electronics,150.03,0,0,0,Just Browsing
+1348,478,Mobile,Fashion,109.58,1,1,1,N/A
+1496,479,Mobile,Fashion,383.28,1,1,1,N/A
+1301,480,Mobile,Electronics,199.4,1,1,0,Payment Failure
+1180,481,Mobile,Electronics,260.52,1,1,0,Slow Website
+1606,482,Mobile,Electronics,251.24,0,0,0,Just Browsing
+1098,483,Desktop,Fashion,292.87,1,1,1,N/A
+1699,484,Mobile,Electronics,434.13,1,0,0,Slow Website
+1992,485,Desktop,Electronics,490.56,0,0,0,Slow Website
+1115,486,Mobile,Beauty,209.72,1,1,1,N/A
+1190,487,Mobile,Beauty,415.48,0,0,0,High Shipping Cost
+1252,488,Mobile,Electronics,384.62,1,1,0,Slow Website
+1980,489,Desktop,Home,291.03,1,0,0,Slow Website
+1927,490,Desktop,Electronics,478.46,0,0,0,Payment Failure
+1982,491,Desktop,Beauty,108.23,1,1,0,High Shipping Cost
+1160,492,Mobile,Home,63.54,1,0,0,Just Browsing
+1255,493,Mobile,Home,428.44,1,1,1,N/A
+1322,494,Desktop,Electronics,225.18,1,0,0,Slow Website
+1127,495,Mobile,Beauty,425.01,1,1,0,Payment Failure
+1017,496,Mobile,Beauty,447.61,0,0,0,Payment Failure
+1792,497,Mobile,Home,40.6,1,0,0,Slow Website
+1734,498,Desktop,Electronics,442.9,0,0,0,High Shipping Cost
+1565,499,Desktop,Fashion,229.68,1,0,0,High Shipping Cost
+1569,500,Mobile,Fashion,260.11,1,1,1,N/A
+1322,501,Desktop,Beauty,317.03,1,1,0,Slow Website
+1871,502,Desktop,Fashion,463.93,1,1,1,N/A
+1685,503,Mobile,Beauty,19.37,0,0,0,Payment Failure
+1791,504,Mobile,Beauty,243.65,1,1,1,N/A
+1625,505,Desktop,Beauty,346.98,0,0,0,Payment Failure
+1287,506,Mobile,Fashion,364.13,0,0,0,Payment Failure
+1942,507,Mobile,Beauty,349.34,0,0,0,Slow Website
+1853,508,Mobile,Home,75.87,1,1,1,N/A
+1662,509,Desktop,Electronics,156.7,0,0,0,Just Browsing
+1961,510,Desktop,Electronics,185.77,0,0,0,Just Browsing
+1638,511,Desktop,Beauty,404.17,0,0,0,High Shipping Cost
+1154,512,Mobile,Electronics,146.59,0,0,0,Slow Website
+1489,513,Desktop,Fashion,113.25,1,1,1,N/A
+1385,514,Desktop,Fashion,479.15,1,1,0,Payment Failure
+1985,515,Mobile,Electronics,14.34,1,1,0,High Shipping Cost
+1784,516,Desktop,Fashion,498.93,1,0,0,Slow Website
+1103,517,Mobile,Electronics,341.64,0,0,0,Payment Failure
+1928,518,Mobile,Electronics,415.95,1,0,0,High Shipping Cost
+1392,519,Mobile,Electronics,154.36,1,0,0,High Shipping Cost
+1810,520,Mobile,Beauty,17.01,0,0,0,Payment Failure
+1245,521,Mobile,Electronics,371.56,0,0,0,Payment Failure
+1175,522,Mobile,Beauty,418.73,0,0,0,Just Browsing
+1038,523,Mobile,Electronics,372.83,0,0,0,Slow Website
+1476,524,Desktop,Electronics,80.0,1,1,1,N/A
+1681,525,Mobile,Electronics,379.18,1,0,0,High Shipping Cost
+1758,526,Mobile,Fashion,386.77,0,0,0,Payment Failure
+1537,527,Mobile,Beauty,332.68,0,0,0,Just Browsing
+1866,528,Desktop,Beauty,385.4,1,1,1,N/A
+1817,529,Mobile,Electronics,424.5,0,0,0,Slow Website
+1920,530,Mobile,Electronics,310.67,1,0,0,Payment Failure
+1407,531,Desktop,Fashion,53.42,1,1,1,N/A
+1524,532,Mobile,Fashion,248.94,0,0,0,Slow Website
+1827,533,Mobile,Fashion,48.05,0,0,0,Just Browsing
+1505,534,Mobile,Beauty,209.7,1,1,0,High Shipping Cost
+1902,535,Desktop,Beauty,209.48,1,1,0,Slow Website
+1824,536,Mobile,Beauty,42.34,1,1,0,Just Browsing
+1035,537,Desktop,Electronics,180.92,1,1,0,Slow Website
+1684,538,Mobile,Beauty,64.39,0,0,0,High Shipping Cost
+1019,539,Desktop,Home,406.04,1,0,0,Slow Website
+1320,540,Desktop,Home,474.37,1,1,1,N/A
+1775,541,Desktop,Fashion,45.44,0,0,0,High Shipping Cost
+1511,542,Mobile,Beauty,478.01,1,1,1,N/A
+1399,543,Desktop,Home,266.06,0,0,0,Just Browsing
+1653,544,Mobile,Fashion,156.79,1,1,1,N/A
+1971,545,Mobile,Beauty,47.66,0,0,0,High Shipping Cost
+1882,546,Mobile,Electronics,255.31,1,1,1,N/A
+1470,547,Desktop,Home,399.31,1,1,0,Payment Failure
+1142,548,Desktop,Electronics,356.47,1,0,0,Just Browsing
+1091,549,Desktop,Beauty,34.61,0,0,0,High Shipping Cost
+1353,550,Mobile,Home,45.72,1,0,0,Payment Failure
+1833,551,Mobile,Beauty,207.41,1,0,0,Payment Failure
+1799,552,Desktop,Electronics,154.69,1,1,0,High Shipping Cost
+1726,553,Mobile,Home,123.87,1,0,0,Just Browsing
+1958,554,Mobile,Electronics,147.69,1,0,0,Slow Website
+1853,555,Mobile,Beauty,403.71,1,0,0,Slow Website
+1050,556,Mobile,Beauty,465.32,1,1,1,N/A
+1664,557,Mobile,Electronics,208.5,1,1,1,N/A
+1697,558,Mobile,Home,453.99,1,1,0,Slow Website
+1574,559,Mobile,Electronics,167.53,1,0,0,High Shipping Cost
+1189,560,Mobile,Beauty,243.45,1,1,1,N/A
+1124,561,Desktop,Electronics,120.75,1,1,1,N/A
+1149,562,Mobile,Beauty,323.83,1,0,0,Payment Failure
+1313,563,Mobile,Electronics,489.7,0,0,0,High Shipping Cost
+1569,564,Mobile,Home,305.71,1,0,0,Slow Website
+1341,565,Mobile,Home,185.33,1,1,1,N/A
+1304,566,Desktop,Electronics,327.43,1,1,0,Payment Failure
+1691,567,Desktop,Electronics,70.23,1,1,0,Slow Website
+1681,568,Mobile,Home,445.44,1,0,0,Payment Failure
+1837,569,Mobile,Beauty,256.51,1,1,1,N/A
+1782,570,Desktop,Home,230.18,1,1,1,N/A
+1053,571,Desktop,Beauty,297.07,1,1,0,Payment Failure
+1443,572,Mobile,Electronics,316.14,1,1,0,Payment Failure
+1612,573,Mobile,Electronics,45.17,1,0,0,Slow Website
+1992,574,Mobile,Beauty,344.48,1,0,0,Just Browsing
+1263,575,Desktop,Electronics,128.55,0,0,0,Just Browsing
+1052,576,Mobile,Beauty,359.84,0,0,0,Slow Website
+1571,577,Desktop,Fashion,413.04,1,1,0,Slow Website
+1619,578,Mobile,Home,403.94,0,0,0,Slow Website
+1004,579,Mobile,Fashion,280.73,1,1,0,High Shipping Cost
+1102,580,Mobile,Beauty,264.88,1,0,0,Payment Failure
+1195,581,Mobile,Home,80.01,1,1,0,Payment Failure
+1773,582,Mobile,Beauty,389.92,1,1,0,Just Browsing
+1876,583,Mobile,Home,142.99,0,0,0,Payment Failure
+1991,584,Mobile,Home,253.38,1,0,0,High Shipping Cost
+1883,585,Desktop,Home,149.29,1,1,1,N/A
+1349,586,Mobile,Home,75.58,1,0,0,Just Browsing
+1046,587,Mobile,Beauty,318.48,0,0,0,Just Browsing
+1866,588,Desktop,Home,36.62,1,1,0,Payment Failure
+1822,589,Desktop,Home,376.84,0,0,0,Just Browsing
+1935,590,Desktop,Fashion,165.62,0,0,0,Slow Website
+1819,591,Desktop,Electronics,10.07,0,0,0,Just Browsing
+1655,592,Mobile,Electronics,260.45,0,0,0,Slow Website
+1268,593,Mobile,Fashion,32.96,1,1,1,N/A
+1369,594,Desktop,Fashion,145.32,0,0,0,High Shipping Cost
+1635,595,Mobile,Beauty,356.42,1,1,0,Slow Website
+1105,596,Mobile,Beauty,40.72,1,0,0,Payment Failure
+1669,597,Desktop,Beauty,421.28,1,0,0,Just Browsing
+1658,598,Mobile,Fashion,11.87,0,0,0,Payment Failure
+1656,599,Mobile,Fashion,130.94,1,1,1,N/A
+1119,600,Mobile,Home,373.04,1,0,0,High Shipping Cost
+1830,601,Mobile,Beauty,164.97,1,0,0,High Shipping Cost
+1786,602,Mobile,Beauty,59.93,0,0,0,High Shipping Cost
+1603,603,Mobile,Beauty,186.51,1,1,1,N/A
+1057,604,Desktop,Electronics,142.49,1,1,0,High Shipping Cost
+1950,605,Mobile,Home,422.93,1,0,0,High Shipping Cost
+1345,606,Mobile,Beauty,163.54,0,0,0,High Shipping Cost
+1740,607,Desktop,Beauty,396.58,1,1,0,High Shipping Cost
+1473,608,Desktop,Beauty,447.02,0,0,0,Payment Failure
+1116,609,Desktop,Electronics,222.57,0,0,0,High Shipping Cost
+1829,610,Desktop,Electronics,455.87,1,1,1,N/A
+1790,611,Mobile,Fashion,194.89,0,0,0,Payment Failure
+1126,612,Mobile,Home,482.4,0,0,0,Payment Failure
+1392,613,Mobile,Fashion,53.75,0,0,0,Just Browsing
+1907,614,Mobile,Home,346.64,1,1,0,Slow Website
+1640,615,Mobile,Electronics,251.97,1,1,1,N/A
+1057,616,Mobile,Beauty,199.95,1,1,0,High Shipping Cost
+1633,617,Desktop,Fashion,320.03,1,0,0,High Shipping Cost
+1512,618,Mobile,Beauty,354.89,0,0,0,Just Browsing
+1750,619,Mobile,Fashion,12.14,1,1,0,High Shipping Cost
+1801,620,Mobile,Electronics,91.81,1,1,0,Slow Website
+1095,621,Mobile,Electronics,359.39,0,0,0,Payment Failure
+1637,622,Mobile,Electronics,336.53,1,1,0,Just Browsing
+1117,623,Desktop,Fashion,483.36,1,0,0,Payment Failure
+1559,624,Mobile,Home,382.91,0,0,0,High Shipping Cost
+1600,625,Mobile,Fashion,475.88,0,0,0,High Shipping Cost
+1487,626,Mobile,Home,354.24,0,0,0,High Shipping Cost
+1236,627,Desktop,Fashion,156.05,0,0,0,Slow Website
+1884,628,Mobile,Fashion,61.63,1,0,0,Slow Website
+1896,629,Mobile,Electronics,393.09,1,1,0,Just Browsing
+1271,630,Mobile,Beauty,325.63,1,0,0,Payment Failure
+1188,631,Mobile,Beauty,33.61,1,1,1,N/A
+1998,632,Desktop,Home,186.42,0,0,0,High Shipping Cost
+1703,633,Desktop,Beauty,478.83,1,1,0,High Shipping Cost
+1446,634,Mobile,Fashion,255.2,1,0,0,High Shipping Cost
+1580,635,Desktop,Fashion,222.04,1,1,1,N/A
+1789,636,Desktop,Electronics,234.27,1,0,0,Payment Failure
+1860,637,Desktop,Electronics,112.35,1,0,0,Payment Failure
+1246,638,Desktop,Beauty,190.67,1,1,1,N/A
+1962,639,Mobile,Home,191.21,1,1,0,Slow Website
+1075,640,Mobile,Beauty,35.65,0,0,0,High Shipping Cost
+1153,641,Mobile,Beauty,386.11,0,0,0,Payment Failure
+1655,642,Desktop,Beauty,214.09,0,0,0,Payment Failure
+1434,643,Mobile,Beauty,412.87,1,1,1,N/A
+1996,644,Desktop,Fashion,426.67,1,1,1,N/A
+1085,645,Desktop,Home,113.88,1,0,0,Just Browsing
+1696,646,Mobile,Fashion,332.1,1,1,1,N/A
+1284,647,Desktop,Home,241.42,1,1,0,Just Browsing
+1973,648,Mobile,Electronics,441.28,1,1,0,Payment Failure
+1219,649,Mobile,Beauty,115.71,0,0,0,Just Browsing
+1068,650,Desktop,Fashion,342.13,0,0,0,High Shipping Cost
+1046,651,Mobile,Home,307.8,1,1,1,N/A
+1093,652,Desktop,Electronics,154.7,1,1,1,N/A
+1749,653,Desktop,Electronics,76.93,1,0,0,Just Browsing
+1957,654,Mobile,Beauty,329.3,0,0,0,Slow Website
+1452,655,Mobile,Home,371.91,0,0,0,High Shipping Cost
+1203,656,Mobile,Fashion,164.66,1,1,1,N/A
+1911,657,Mobile,Beauty,325.97,0,0,0,Slow Website
+1217,658,Desktop,Fashion,203.61,0,0,0,Payment Failure
+1473,659,Mobile,Electronics,359.47,1,1,1,N/A
+1431,660,Mobile,Fashion,107.62,0,0,0,Slow Website
+1340,661,Mobile,Fashion,446.21,1,1,1,N/A
+1550,662,Mobile,Beauty,150.83,0,0,0,Just Browsing
+1611,663,Desktop,Fashion,190.22,0,0,0,Just Browsing
+1288,664,Mobile,Beauty,38.47,1,1,0,Slow Website
+1253,665,Desktop,Electronics,64.64,1,1,1,N/A
+1733,666,Mobile,Beauty,262.77,1,1,0,High Shipping Cost
+1356,667,Desktop,Beauty,141.12,1,0,0,Slow Website
+1022,668,Mobile,Home,419.39,0,0,0,Just Browsing
+1761,669,Mobile,Fashion,17.2,1,1,1,N/A
+1521,670,Desktop,Electronics,195.76,0,0,0,Payment Failure
+1757,671,Mobile,Beauty,175.3,1,1,0,High Shipping Cost
+1836,672,Desktop,Electronics,19.47,1,0,0,Just Browsing
+1099,673,Mobile,Home,70.94,1,0,0,Slow Website
+1801,674,Mobile,Fashion,212.68,1,0,0,Slow Website
+1179,675,Mobile,Beauty,251.5,0,0,0,Just Browsing
+1222,676,Desktop,Fashion,208.1,0,0,0,Slow Website
+1905,677,Mobile,Home,270.16,1,0,0,Just Browsing
+1761,678,Mobile,Home,301.61,1,0,0,Slow Website
+1658,679,Mobile,Electronics,14.86,1,0,0,Slow Website
+1441,680,Mobile,Beauty,237.41,0,0,0,Slow Website
+1607,681,Mobile,Electronics,482.11,1,1,1,N/A
+1768,682,Desktop,Home,264.33,0,0,0,Payment Failure
+1324,683,Desktop,Fashion,342.0,1,1,0,Just Browsing
+1515,684,Desktop,Electronics,162.81,1,1,0,Payment Failure
+1015,685,Desktop,Electronics,389.26,1,0,0,Just Browsing
+1791,686,Mobile,Fashion,388.73,0,0,0,High Shipping Cost
+1335,687,Desktop,Electronics,265.44,1,0,0,High Shipping Cost
+1758,688,Mobile,Fashion,488.25,1,0,0,Payment Failure
+1257,689,Mobile,Beauty,71.52,1,1,1,N/A
+1496,690,Mobile,Fashion,18.3,1,1,0,High Shipping Cost
+1987,691,Mobile,Beauty,387.38,1,1,1,N/A
+1895,692,Desktop,Fashion,405.51,1,1,0,Slow Website
+1159,693,Mobile,Home,68.9,1,1,1,N/A
+1474,694,Mobile,Home,140.14,0,0,0,High Shipping Cost
+1851,695,Mobile,Beauty,18.6,0,0,0,Just Browsing
+1663,696,Desktop,Beauty,153.72,1,1,1,N/A
+1907,697,Mobile,Home,388.84,0,0,0,High Shipping Cost
+1689,698,Mobile,Beauty,263.8,1,1,1,N/A
+1674,699,Mobile,Fashion,180.57,1,0,0,High Shipping Cost
+1379,700,Desktop,Fashion,192.15,1,1,1,N/A
+1544,701,Mobile,Home,10.66,1,1,1,N/A
+1928,702,Mobile,Electronics,156.9,1,0,0,Payment Failure
+1956,703,Mobile,Fashion,326.76,1,1,0,Just Browsing
+1690,704,Mobile,Beauty,487.36,0,0,0,Just Browsing
+1426,705,Mobile,Electronics,425.06,1,1,0,Slow Website
+1612,706,Mobile,Electronics,21.56,0,0,0,Slow Website
+1267,707,Desktop,Fashion,450.29,1,0,0,Slow Website
+1834,708,Mobile,Fashion,393.77,1,0,0,Just Browsing
+1576,709,Mobile,Electronics,392.38,1,0,0,Slow Website
+1416,710,Desktop,Electronics,234.42,0,0,0,High Shipping Cost
+1167,711,Mobile,Home,205.02,1,0,0,Just Browsing
+1841,712,Mobile,Beauty,158.43,1,0,0,Payment Failure
+1042,713,Mobile,Home,42.19,0,0,0,Just Browsing
+1555,714,Mobile,Fashion,121.84,0,0,0,High Shipping Cost
+1284,715,Desktop,Home,130.84,0,0,0,High Shipping Cost
+1396,716,Mobile,Home,247.2,1,0,0,Slow Website
+1011,717,Desktop,Home,376.25,0,0,0,Just Browsing
+1606,718,Mobile,Home,242.17,1,0,0,Just Browsing
+1301,719,Mobile,Beauty,38.34,1,1,1,N/A
+1897,720,Mobile,Beauty,479.32,1,1,1,N/A
+1252,721,Mobile,Electronics,471.93,0,0,0,Slow Website
+1498,722,Mobile,Fashion,394.74,1,0,0,High Shipping Cost
+1753,723,Desktop,Home,495.75,1,1,1,N/A
+1034,724,Mobile,Electronics,276.8,1,0,0,Slow Website
+1726,725,Desktop,Electronics,481.76,1,0,0,High Shipping Cost
+1848,726,Mobile,Electronics,47.05,1,1,0,High Shipping Cost
+1089,727,Desktop,Beauty,189.18,1,1,1,N/A
+1775,728,Desktop,Home,120.44,1,0,0,High Shipping Cost
+1604,729,Desktop,Home,105.96,1,0,0,Just Browsing
+1921,730,Desktop,Fashion,78.99,0,0,0,Payment Failure
+1969,731,Desktop,Home,314.98,0,0,0,Slow Website
+1601,732,Mobile,Home,392.85,0,0,0,Payment Failure
+1417,733,Mobile,Electronics,293.37,1,0,0,High Shipping Cost
+1114,734,Mobile,Fashion,82.01,1,0,0,High Shipping Cost
+1616,735,Desktop,Home,407.45,1,0,0,Just Browsing
+1902,736,Mobile,Beauty,321.62,1,1,1,N/A
+1195,737,Desktop,Home,200.2,1,0,0,High Shipping Cost
+1825,738,Mobile,Electronics,340.32,1,1,1,N/A
+1500,739,Mobile,Beauty,137.35,1,1,0,Slow Website
+1625,740,Mobile,Electronics,179.14,1,1,1,N/A
+1492,741,Mobile,Home,459.57,0,0,0,Slow Website
+1074,742,Mobile,Beauty,152.35,0,0,0,Slow Website
+1412,743,Mobile,Fashion,240.29,0,0,0,Payment Failure
+1375,744,Mobile,Fashion,446.17,1,1,0,Just Browsing
+1419,745,Mobile,Beauty,356.78,1,1,0,Slow Website
+1728,746,Mobile,Beauty,40.48,1,1,0,Payment Failure
+1276,747,Mobile,Electronics,82.18,0,0,0,High Shipping Cost
+1760,748,Desktop,Beauty,13.84,1,1,1,N/A
+1675,749,Mobile,Electronics,319.15,1,1,1,N/A
+1393,750,Mobile,Home,229.36,0,0,0,Slow Website
+1868,751,Mobile,Electronics,75.79,1,1,1,N/A
+1456,752,Mobile,Beauty,479.39,0,0,0,Payment Failure
+1919,753,Mobile,Beauty,269.53,1,1,0,Payment Failure
+1191,754,Mobile,Home,128.53,1,0,0,Just Browsing
+1738,755,Mobile,Beauty,255.3,0,0,0,High Shipping Cost
+1688,756,Mobile,Beauty,343.01,0,0,0,Just Browsing
+1098,757,Mobile,Fashion,47.36,1,0,0,Slow Website
+1547,758,Desktop,Fashion,144.6,1,1,1,N/A
+1977,759,Desktop,Home,405.41,1,0,0,Payment Failure
+1998,760,Mobile,Electronics,235.24,1,1,1,N/A
+1095,761,Mobile,Fashion,277.82,1,0,0,Payment Failure
+1663,762,Mobile,Electronics,222.08,1,1,0,Just Browsing
+1662,763,Mobile,Beauty,31.51,1,0,0,Just Browsing
+1189,764,Desktop,Fashion,91.22,1,0,0,Payment Failure
+1735,765,Mobile,Home,228.32,1,0,0,Payment Failure
+1036,766,Mobile,Home,112.5,1,0,0,Slow Website
+1779,767,Mobile,Home,34.49,1,0,0,Just Browsing
+1368,768,Desktop,Fashion,423.39,1,0,0,Just Browsing
+1694,769,Mobile,Electronics,490.78,0,0,0,Slow Website
+1524,770,Mobile,Beauty,398.64,1,0,0,Just Browsing
+1278,771,Mobile,Electronics,428.35,1,1,0,Payment Failure
+1216,772,Mobile,Electronics,128.57,0,0,0,High Shipping Cost
+1866,773,Mobile,Beauty,480.71,1,1,0,High Shipping Cost
+1872,774,Mobile,Beauty,106.49,1,1,1,N/A
+1797,775,Mobile,Fashion,476.2,0,0,0,Slow Website
+1272,776,Mobile,Fashion,497.46,1,0,0,Payment Failure
+1880,777,Mobile,Fashion,358.74,0,0,0,High Shipping Cost
+1061,778,Mobile,Fashion,490.76,0,0,0,Payment Failure
+1595,779,Mobile,Fashion,289.07,1,0,0,Just Browsing
+1879,780,Mobile,Beauty,137.18,1,0,0,Just Browsing
+1728,781,Desktop,Electronics,224.13,0,0,0,High Shipping Cost
+1341,782,Mobile,Fashion,300.84,1,0,0,Just Browsing
+1396,783,Mobile,Fashion,45.81,1,0,0,Slow Website
+1698,784,Mobile,Electronics,314.95,0,0,0,Just Browsing
+1018,785,Mobile,Fashion,490.78,0,0,0,Just Browsing
+1176,786,Desktop,Electronics,103.15,1,1,0,Just Browsing
+1611,787,Mobile,Electronics,398.37,0,0,0,Payment Failure
+1395,788,Desktop,Beauty,454.87,1,0,0,Payment Failure
+1444,789,Mobile,Home,472.41,1,1,0,High Shipping Cost
+1232,790,Mobile,Beauty,480.47,1,0,0,High Shipping Cost
+1914,791,Desktop,Home,265.52,0,0,0,High Shipping Cost
+1075,792,Desktop,Home,488.88,1,1,0,Just Browsing
+1264,793,Desktop,Home,381.08,1,0,0,Payment Failure
+1454,794,Desktop,Fashion,89.22,1,1,1,N/A
+1795,795,Mobile,Beauty,243.68,0,0,0,Just Browsing
+1717,796,Desktop,Home,361.98,0,0,0,Just Browsing
+1734,797,Mobile,Electronics,131.2,1,0,0,Just Browsing
+1383,798,Desktop,Fashion,323.9,1,1,1,N/A
+1563,799,Mobile,Beauty,336.63,0,0,0,High Shipping Cost
+1850,800,Desktop,Home,89.72,1,1,0,Slow Website
+1505,801,Mobile,Electronics,286.89,0,0,0,High Shipping Cost
+1366,802,Mobile,Beauty,388.1,1,1,0,Slow Website
+1143,803,Mobile,Beauty,254.46,1,1,0,Payment Failure
+1884,804,Desktop,Fashion,15.93,1,1,1,N/A
+1068,805,Mobile,Beauty,14.43,1,1,1,N/A
+1098,806,Mobile,Fashion,184.94,1,0,0,Just Browsing
+1395,807,Mobile,Home,463.84,1,0,0,High Shipping Cost
+1024,808,Mobile,Fashion,122.05,1,0,0,Slow Website
+1947,809,Desktop,Electronics,320.84,1,0,0,Payment Failure
+1890,810,Mobile,Fashion,118.82,1,0,0,Slow Website
+1468,811,Desktop,Electronics,167.62,0,0,0,Just Browsing
+1483,812,Mobile,Fashion,425.54,0,0,0,Payment Failure
+1564,813,Mobile,Beauty,367.14,1,1,1,N/A
+1150,814,Desktop,Home,56.75,1,0,0,Just Browsing
+1143,815,Mobile,Electronics,220.06,1,0,0,Slow Website
+1568,816,Mobile,Fashion,24.29,0,0,0,Just Browsing
+1038,817,Mobile,Fashion,245.64,1,1,1,N/A
+1108,818,Desktop,Fashion,334.59,1,1,0,Payment Failure
+1692,819,Mobile,Beauty,68.07,1,1,1,N/A
+1041,820,Desktop,Beauty,151.55,1,0,0,Just Browsing
+1185,821,Desktop,Electronics,204.94,1,1,1,N/A
+1934,822,Mobile,Electronics,460.57,1,0,0,High Shipping Cost
+1397,823,Mobile,Beauty,496.69,1,0,0,Payment Failure
+1222,824,Mobile,Electronics,32.01,0,0,0,High Shipping Cost
+1633,825,Mobile,Home,382.89,1,0,0,Payment Failure
+1132,826,Mobile,Home,192.14,1,0,0,Just Browsing
+1162,827,Mobile,Beauty,202.3,1,1,0,Just Browsing
+1214,828,Mobile,Electronics,379.59,0,0,0,High Shipping Cost
+1732,829,Desktop,Fashion,460.03,1,0,0,Just Browsing
+1234,830,Desktop,Home,475.96,1,0,0,Payment Failure
+1842,831,Desktop,Beauty,292.79,0,0,0,Payment Failure
+1657,832,Mobile,Electronics,184.99,1,0,0,Just Browsing
+1750,833,Mobile,Beauty,395.9,1,1,0,Payment Failure
+1587,834,Mobile,Fashion,132.99,1,0,0,Slow Website
+1008,835,Desktop,Home,286.4,1,1,0,Slow Website
+1073,836,Mobile,Beauty,185.7,0,0,0,Payment Failure
+1953,837,Desktop,Beauty,331.75,1,1,0,Just Browsing
+1491,838,Mobile,Beauty,127.8,0,0,0,High Shipping Cost
+1912,839,Mobile,Fashion,103.88,1,1,1,N/A
+1252,840,Desktop,Beauty,459.94,1,0,0,High Shipping Cost
+1229,841,Mobile,Fashion,59.88,1,1,0,Just Browsing
+1518,842,Desktop,Fashion,257.92,0,0,0,Payment Failure
+1173,843,Desktop,Fashion,118.22,1,0,0,Slow Website
+1652,844,Mobile,Home,29.08,1,1,0,Just Browsing
+1167,845,Mobile,Home,27.65,1,1,0,High Shipping Cost
+1169,846,Mobile,Beauty,95.86,1,1,1,N/A
+1392,847,Desktop,Beauty,434.72,1,1,0,High Shipping Cost
+1945,848,Mobile,Home,148.41,1,1,1,N/A
+1794,849,Mobile,Electronics,475.72,1,0,0,Slow Website
+1633,850,Mobile,Home,294.99,0,0,0,High Shipping Cost
+1193,851,Desktop,Fashion,223.94,0,0,0,Just Browsing
+1516,852,Mobile,Home,294.24,1,1,0,Payment Failure
+1028,853,Desktop,Fashion,263.18,1,0,0,Payment Failure
+1164,854,Desktop,Beauty,381.8,1,0,0,Payment Failure
+1421,855,Mobile,Electronics,148.42,1,1,1,N/A
+1338,856,Mobile,Beauty,182.99,0,0,0,Just Browsing
+1647,857,Desktop,Fashion,448.11,1,0,0,Slow Website
+1495,858,Mobile,Fashion,473.76,0,0,0,Just Browsing
+1364,859,Desktop,Fashion,447.35,0,0,0,Slow Website
+1832,860,Mobile,Electronics,215.53,1,0,0,Payment Failure
+1341,861,Mobile,Home,392.38,0,0,0,Slow Website
+1499,862,Desktop,Beauty,243.4,1,1,0,High Shipping Cost
+1656,863,Mobile,Beauty,253.79,0,0,0,Payment Failure
+1510,864,Mobile,Home,110.29,1,1,1,N/A
+1326,865,Mobile,Beauty,299.65,1,0,0,Slow Website
+1216,866,Mobile,Electronics,101.21,0,0,0,Payment Failure
+1300,867,Mobile,Beauty,172.47,1,0,0,Just Browsing
+1131,868,Mobile,Fashion,428.96,1,1,1,N/A
+1803,869,Desktop,Home,111.47,1,1,0,Slow Website
+1069,870,Mobile,Electronics,44.87,0,0,0,Slow Website
+1251,871,Mobile,Home,43.81,1,0,0,Payment Failure
+1414,872,Mobile,Electronics,470.98,1,1,0,Just Browsing
+1786,873,Desktop,Fashion,258.39,1,0,0,Payment Failure
+1444,874,Mobile,Home,210.61,1,1,1,N/A
+1875,875,Desktop,Beauty,407.33,1,0,0,Slow Website
+1181,876,Mobile,Electronics,419.55,1,1,0,Payment Failure
+1166,877,Mobile,Home,172.77,1,0,0,High Shipping Cost
+1090,878,Mobile,Beauty,349.87,1,0,0,Payment Failure
+1713,879,Mobile,Home,387.85,1,1,0,Payment Failure
+1857,880,Mobile,Home,330.78,1,0,0,Slow Website
+1530,881,Mobile,Home,84.28,1,0,0,Payment Failure
+1038,882,Desktop,Electronics,439.18,1,0,0,Just Browsing
+1125,883,Mobile,Beauty,274.16,0,0,0,Slow Website
+1450,884,Mobile,Fashion,148.41,1,0,0,Payment Failure
+1172,885,Mobile,Electronics,218.36,1,0,0,High Shipping Cost
+1652,886,Desktop,Electronics,28.41,1,1,1,N/A
+1753,887,Mobile,Electronics,72.65,1,0,0,Slow Website
+1219,888,Mobile,Fashion,385.12,1,1,1,N/A
+1637,889,Mobile,Beauty,10.01,1,0,0,Payment Failure
+1057,890,Desktop,Beauty,214.12,0,0,0,Just Browsing
+1659,891,Mobile,Beauty,266.03,1,1,0,Payment Failure
+1475,892,Mobile,Home,36.77,1,0,0,High Shipping Cost
+1455,893,Desktop,Home,486.81,1,1,0,Just Browsing
+1828,894,Desktop,Home,120.8,1,0,0,Just Browsing
+1894,895,Mobile,Fashion,159.06,1,1,0,Just Browsing
+1360,896,Desktop,Home,158.93,1,1,0,Payment Failure
+1934,897,Mobile,Fashion,122.9,0,0,0,High Shipping Cost
+1000,898,Mobile,Beauty,10.72,0,0,0,Slow Website
+1386,899,Mobile,Home,367.38,0,0,0,Payment Failure
+1972,900,Mobile,Home,483.75,1,0,0,Slow Website
+1347,901,Mobile,Electronics,119.9,1,0,0,Just Browsing
+1189,902,Desktop,Fashion,334.89,1,1,0,Just Browsing
+1504,903,Mobile,Beauty,373.53,1,0,0,Payment Failure
+1190,904,Mobile,Electronics,425.73,1,0,0,High Shipping Cost
+1507,905,Mobile,Electronics,217.09,1,1,0,Just Browsing
+1368,906,Desktop,Beauty,158.44,1,0,0,Slow Website
+1408,907,Mobile,Electronics,169.39,1,1,0,Slow Website
+1823,908,Mobile,Fashion,359.18,1,1,1,N/A
+1928,909,Mobile,Fashion,410.22,1,1,0,Slow Website
+1933,910,Mobile,Home,98.99,0,0,0,High Shipping Cost
+1116,911,Desktop,Electronics,191.76,1,0,0,Just Browsing
+1133,912,Desktop,Home,451.95,0,0,0,Slow Website
+1057,913,Mobile,Electronics,405.28,1,1,1,N/A
+1555,914,Desktop,Fashion,492.58,1,0,0,Just Browsing
+1684,915,Mobile,Fashion,379.58,1,1,1,N/A
+1671,916,Desktop,Fashion,202.67,0,0,0,Slow Website
+1172,917,Mobile,Electronics,299.41,1,1,0,Payment Failure
+1828,918,Mobile,Fashion,333.9,0,0,0,Payment Failure
+1814,919,Mobile,Electronics,48.44,1,1,0,Slow Website
+1148,920,Mobile,Home,276.8,0,0,0,High Shipping Cost
+1079,921,Mobile,Electronics,357.57,1,1,0,Payment Failure
+1885,922,Mobile,Home,91.99,1,0,0,Slow Website
+1212,923,Mobile,Electronics,392.51,1,1,1,N/A
+1202,924,Desktop,Home,296.05,0,0,0,Just Browsing
+1763,925,Mobile,Fashion,476.59,0,0,0,High Shipping Cost
+1228,926,Mobile,Home,30.79,1,1,0,High Shipping Cost
+1675,927,Desktop,Fashion,140.01,1,0,0,Just Browsing
+1226,928,Mobile,Fashion,304.76,1,1,0,Just Browsing
+1658,929,Mobile,Home,155.31,0,0,0,Payment Failure
+1531,930,Mobile,Electronics,360.07,1,0,0,Just Browsing
+1440,931,Desktop,Electronics,381.91,0,0,0,High Shipping Cost
+1401,932,Mobile,Beauty,60.23,0,0,0,Just Browsing
+1046,933,Mobile,Electronics,261.79,1,1,0,Slow Website
+1232,934,Desktop,Beauty,259.36,1,1,0,Slow Website
+1304,935,Desktop,Electronics,190.95,0,0,0,Payment Failure
+1525,936,Mobile,Electronics,467.13,0,0,0,High Shipping Cost
+1142,937,Mobile,Fashion,415.48,0,0,0,Slow Website
+1414,938,Mobile,Beauty,351.63,1,0,0,Just Browsing
+1512,939,Desktop,Electronics,360.02,1,1,1,N/A
+1372,940,Mobile,Beauty,236.24,0,0,0,Slow Website
+1565,941,Mobile,Fashion,461.29,0,0,0,Payment Failure
+1885,942,Desktop,Fashion,350.35,1,1,1,N/A
+1258,943,Mobile,Beauty,367.2,1,0,0,Just Browsing
+1655,944,Mobile,Fashion,432.23,1,1,0,Just Browsing
+1470,945,Mobile,Home,144.3,0,0,0,Payment Failure
+1952,946,Mobile,Home,405.46,0,0,0,Just Browsing
+1970,947,Mobile,Fashion,105.67,1,1,0,Just Browsing
+1011,948,Mobile,Home,179.22,1,0,0,Slow Website
+1329,949,Mobile,Electronics,174.45,0,0,0,Slow Website
+1735,950,Mobile,Beauty,489.48,1,1,1,N/A
+1783,951,Desktop,Electronics,429.7,0,0,0,High Shipping Cost
+1967,952,Mobile,Beauty,353.57,1,0,0,High Shipping Cost
+1357,953,Desktop,Fashion,366.26,1,1,1,N/A
+1971,954,Mobile,Electronics,285.42,0,0,0,High Shipping Cost
+1407,955,Desktop,Fashion,474.07,1,1,1,N/A
+1667,956,Desktop,Fashion,253.17,1,1,1,N/A
+1372,957,Mobile,Beauty,196.45,1,1,1,N/A
+1007,958,Desktop,Beauty,89.89,1,1,0,Slow Website
+1121,959,Desktop,Beauty,395.24,0,0,0,High Shipping Cost
+1347,960,Mobile,Electronics,369.88,1,1,1,N/A
+1675,961,Mobile,Home,198.33,0,0,0,Just Browsing
+1089,962,Mobile,Beauty,22.34,1,1,1,N/A
+1647,963,Desktop,Beauty,421.11,1,0,0,High Shipping Cost
+1697,964,Desktop,Electronics,15.59,1,0,0,Just Browsing
+1315,965,Desktop,Beauty,354.81,0,0,0,Just Browsing
+1177,966,Mobile,Electronics,485.43,1,0,0,Slow Website
+1539,967,Desktop,Fashion,224.45,1,1,1,N/A
+1731,968,Mobile,Beauty,125.14,1,0,0,Slow Website
+1868,969,Mobile,Beauty,355.39,0,0,0,Slow Website
+1040,970,Mobile,Fashion,410.39,0,0,0,Payment Failure
+1739,971,Mobile,Fashion,277.75,1,1,0,High Shipping Cost
+1703,972,Mobile,Fashion,483.85,1,0,0,High Shipping Cost
+1922,973,Mobile,Beauty,35.32,0,0,0,Payment Failure
+1501,974,Mobile,Home,257.35,1,1,1,N/A
+1958,975,Mobile,Home,362.04,1,1,1,N/A
+1144,976,Mobile,Home,432.69,1,1,1,N/A
+1200,977,Mobile,Beauty,97.84,0,0,0,Payment Failure
+1928,978,Mobile,Fashion,402.0,0,0,0,Just Browsing
+1723,979,Mobile,Beauty,280.83,1,0,0,Slow Website
+1460,980,Mobile,Fashion,204.31,0,0,0,High Shipping Cost
+1731,981,Mobile,Beauty,74.54,1,0,0,Just Browsing
+1751,982,Mobile,Beauty,433.99,1,1,1,N/A
+1924,983,Mobile,Fashion,87.06,1,0,0,Slow Website
+1908,984,Mobile,Home,161.8,1,0,0,Just Browsing
+1557,985,Mobile,Fashion,152.12,1,1,0,Just Browsing
+1546,986,Desktop,Electronics,436.99,0,0,0,Just Browsing
+1252,987,Mobile,Electronics,339.62,1,0,0,High Shipping Cost
+1389,988,Mobile,Fashion,400.37,1,1,0,High Shipping Cost
+1593,989,Mobile,Beauty,132.73,1,1,1,N/A
+1882,990,Mobile,Electronics,316.19,0,0,0,Slow Website
+1255,991,Mobile,Electronics,290.16,0,0,0,Payment Failure
+1708,992,Mobile,Beauty,418.09,0,0,0,High Shipping Cost
+1814,993,Mobile,Beauty,453.98,1,1,1,N/A
+1920,994,Mobile,Home,15.96,1,1,0,Just Browsing
+1449,995,Mobile,Beauty,340.27,1,0,0,Just Browsing
+1009,996,Desktop,Fashion,35.4,0,0,0,High Shipping Cost
+1823,997,Desktop,Fashion,278.94,0,0,0,Just Browsing
+1797,998,Desktop,Home,150.94,1,1,1,N/A
+1241,999,Desktop,Electronics,160.32,1,1,1,N/A
+1250,1000,Mobile,Electronics,182.95,0,0,0,Slow Website

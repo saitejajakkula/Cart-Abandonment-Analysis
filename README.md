@@ -35,6 +35,12 @@ The dataset includes:
 
 ## 🔍 Key Analysis Performed
 
+<img width="1504" height="846" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/4255d309-22f0-4f72-9d1c-f5fa92d11c3c" />
+
+
+---
+<img width="1516" height="846" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/727e3354-692a-465d-9dae-ab8b30113601" />
+
 ### 1️⃣ Funnel Analysis
 
 * 68.3% users added items to cart
@@ -44,6 +50,7 @@ The dataset includes:
 👉 Cart abandonment rate ≈ **70.7%**
 
 ---
+<img width="1518" height="857" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/db79d5a2-3cdb-49aa-b830-aef1b4cb9f47" />
 
 ### 2️⃣ Device Analysis
 
@@ -51,6 +58,7 @@ The dataset includes:
 * Indicates mobile UX and payment friction issues
 
 ---
+<img width="1525" height="839" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/a0b594ac-5111-46ee-b84f-e89b7ac05363" />
 
 ### 3️⃣ Category Analysis
 

@@ -1,4 +1,4 @@
-# 🧩 Business Analyst Case Study
+# 🧩 Business Case Study Analysis 
 
 ## 📌 Reducing Cart Abandonment in E-commerce
 
